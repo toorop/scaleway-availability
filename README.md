@@ -1,2 +1,2 @@
 # scaleway-availability
-Golang package and CLI tool to check availability of scaleaway instances
+Golang package and CLI tools to check availability of scaleway instances
